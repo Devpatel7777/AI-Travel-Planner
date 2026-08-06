@@ -297,12 +297,6 @@ Your support motivates future development.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
 
 ### ⭐ If you like this project, don't forget to Star the repository ⭐
