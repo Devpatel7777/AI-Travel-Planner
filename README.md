@@ -339,7 +339,7 @@ streamlit run AI_TRAVEL_AGENT.py
 The application will be available at:
 
 ```text
-http://localhost:8501
+http://localhost:8501/
 ```
 
 ---
@@ -530,6 +530,4 @@ Users should verify important travel and booking information through official so
 Built with Python, Streamlit, LangChain and Generative AI.
 
 </div>
-```
 
-આ **તારા આપેલા README style જેવું જ** છે, પણ recruiter સામે વધારે strong બનાવવા માટે તેમાં **Trip Feasibility, International Travel, Couple/Family/Friends personalization, Budget Alternatives, Challenges Addressed અને Learning Outcomes** પણ ઉમેર્યા છે.
