@@ -214,19 +214,29 @@ Google Search          Groq LLM
 
 ## Home Page
 
-![AI Travel Planner Home](screenshots/home.png)
+<img width="1881" height="912" alt="home" src="https://github.com/user-attachments/assets/a88b57db-d975-431b-9904-ee87de31c70e" />
+
 
 ---
 
 ## Trip Input
 
-![Trip Input](screenshots/input.png)
+<img width="1879" height="966" alt="Screenshot 2026-08-11 181641" src="https://github.com/user-attachments/assets/dc1798bf-4f78-47e7-a0b4-a04b57a517a7" />
+
 
 ---
 
 ## Generated Travel Plan
 
-![Generated Travel Plan](screenshots/output.png)
+<img width="1866" height="972" alt="Screenshot 2026-08-11 181700" src="https://github.com/user-attachments/assets/d9b9efee-5722-4946-b6bf-617e815fd477" />
+<img width="1865" height="973" alt="Screenshot 2026-08-11 181737" src="https://github.com/user-attachments/assets/4dc4c601-bd7f-498b-b9cb-344b08dff0a2" />
+<img width="1866" height="801" alt="Screenshot 2026-08-11 181800" src="https://github.com/user-attachments/assets/a894fa19-b5cd-41df-b820-3e3e4cb3abc9" />
+<img width="1425" height="854" alt="Screenshot 2026-08-11 181814" src="https://github.com/user-attachments/assets/db349481-447e-4cd5-9adb-b694a629c029" />
+<img width="1868" height="907" alt="Screenshot 2026-08-11 181827" src="https://github.com/user-attachments/assets/0f3e4a37-fe1a-42d5-b9db-ccccf5cc6ad0" />
+<img width="1864" height="972" alt="Screenshot 2026-08-11 181843" src="https://github.com/user-attachments/assets/33cb3607-57c5-4243-bb25-78a29c3d87af" />
+<img width="1871" height="972" alt="Screenshot 2026-08-11 181905" src="https://github.com/user-attachments/assets/b7b417ae-c7ad-4560-8b09-fbf6c203afea" />
+<img width="1867" height="960" alt="Screenshot 2026-08-11 181920" src="https://github.com/user-attachments/assets/71489b23-4189-4db6-a31f-7cff4437b833" />
+
 
 ---
 
