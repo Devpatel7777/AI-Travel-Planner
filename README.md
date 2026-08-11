@@ -1,8 +1,3 @@
-હા, હવે સમજાયું. તું જે README બતાવ્યો છે એ જ **GitHub portfolio-style professional README** જોઈએ છે — centered title, badges, architecture, workflow, screenshots, tech stack, installation, skills વગેરે સાથે.
-
-પણ recruiter-facing રાખવા માટે હું એ જ structure ને **clean professional version**માં આપીશ, અને તારા actual project પ્રમાણે નામ/commands રાખીશ. `:contentReference[...]` જેવી broken references કાઢી નાખીશ.
-
-````markdown
 <div align="center">
 
 # AI Travel Planner
